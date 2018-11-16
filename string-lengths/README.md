@@ -4,4 +4,4 @@
 
 ### return the count of the strings greater than or equal to the max length
 
-###['hi', 'hello', 'ciao', 'bonjour'], 4 ==> 3
+### ['hi', 'hello', 'ciao', 'bonjour'], 4 ==> 3
