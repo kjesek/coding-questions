@@ -1,14 +1,14 @@
 # implement filter challenge
 
-####Filter is a function that takes an array and a function that returns true or false
-####and returns an array of items that have true as a return value for the function.
-####Filter will take each item in the array and apply the function to that item.
-####If the function returns true, it will add it to an array that will be returned.
-####If it returns false, it does not add it to the array that will be returned.
+#### Filter is a function that takes an array and a function that returns true or false
+#### and returns an array of items that have true as a return value for the function.
+#### Filter will take each item in the array and apply the function to that item.
+#### If the function returns true, it will add it to an array that will be returned.
+#### If it returns false, it does not add it to the array that will be returned.
 
-####filter([1,2,3,4], function(n) { return n % 2 === 0 }) ===> [2,4]
-####filter(['a', 'e', 'o'], function (n) { return n === 'a' || n === 'o' }) ==> ['a','o']
+#### filter([1,2,3,4], function(n) { return n % 2 === 0 }) ===> [2,4]
+#### filter(['a', 'e', 'o'], function (n) { return n === 'a' || n === 'o' }) ==> ['a','o']
 
-####function filter(container, f)
+#### function filter(container, f)
 
-####Implement filter
+#### Implement filter
