@@ -28,3 +28,4 @@ function checkIfArrayExists(array) {
 }
 
 console.log(moveChars(["a", "b", "c"], [1, 0, 2], ["p"]));
+
